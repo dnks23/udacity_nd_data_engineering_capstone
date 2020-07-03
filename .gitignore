@@ -2,3 +2,5 @@
 airflow/logs/
 config/aws-ssh-key.pem
 data/postgres/
+**/__init__.py
+**/__pycache__/
