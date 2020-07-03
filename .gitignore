@@ -1,0 +1,4 @@
+.idea/
+airflow/logs/
+config/aws-ssh-key.pem
+data/postgres/
